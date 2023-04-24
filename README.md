@@ -1,0 +1,2 @@
+# TSDevelopLib
+TypeScriptでの開発で使う色々なものを突っ込んだパッケージ
