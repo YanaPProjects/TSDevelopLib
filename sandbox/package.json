@@ -2,8 +2,10 @@
   "name": "sandbox",
   "version": "1.0.0",
   "description": "Sandbox",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "YanaPIIDXer",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
 }

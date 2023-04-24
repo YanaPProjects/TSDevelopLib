@@ -3,7 +3,14 @@
   "version": "1.0.0",
   "description": "Develop Library for TypeScript",
   "scripts": {
+    "build": "tsc"
   },
   "author": "YanaPIIDXer",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^3.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
 }
