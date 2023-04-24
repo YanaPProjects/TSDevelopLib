@@ -8,6 +8,7 @@
   "author": "YanaPIIDXer",
   "license": "MIT",
   "dependencies": {
+    "@types/node": "^18.16.0",
     "openai": "^3.2.1"
   },
   "devDependencies": {
