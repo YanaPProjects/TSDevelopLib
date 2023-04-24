@@ -1,0 +1,9 @@
+{
+  "name": "ts-develop-lib",
+  "version": "1.0.0",
+  "description": "Develop Library for TypeScript",
+  "scripts": {
+  },
+  "author": "YanaPIIDXer",
+  "license": "MIT"
+}
