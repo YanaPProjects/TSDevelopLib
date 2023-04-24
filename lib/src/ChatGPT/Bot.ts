@@ -1,6 +1,0 @@
-/**
- * Botクラス
- */
-export class Bot {
-  
-}
